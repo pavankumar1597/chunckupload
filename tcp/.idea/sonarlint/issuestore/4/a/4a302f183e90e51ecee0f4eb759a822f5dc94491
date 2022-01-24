@@ -1,0 +1,10 @@
+
+`	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ñ‘ø
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+>	java:S108T")Either remove or fill this block of code.(ï­£Ä
+?	java:S108")Either remove or fill this block of code.(ï­£Ä
+­
+java:S1598"–This file "Files.java" should be located in "io/rsocket/examples/transport/tcp/resume" directory, not in "/home/ecas095/springchunkupload/tcp/resume".(¸Ş÷¤

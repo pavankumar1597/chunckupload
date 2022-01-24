@@ -1,0 +1,10 @@
+
+N	java:S106>"9Replace this use of System.out or System.err by a logger.( à”Â
+N	java:S106E"9Replace this use of System.out or System.err by a logger.( à”Â
+N	java:S106L"9Replace this use of System.out or System.err by a logger.( à”Â
+[
+java:S1192;"FDefine a constant instead of duplicating this literal "Hello" 3 times.(Ä´áG
+a
+java:S1192="FDefine a constant instead of duplicating this literal "error" 3 times.(’‡”žÿÿÿÿÿ
+É
+java:S1598"³This file "HelloWorldClient.java" should be located in "io/rsocket/examples/transport/tcp/requestresponse" directory, not in "/home/ecas095/springchunkupload/tcp/requestresponse".(¾©Í

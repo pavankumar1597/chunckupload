@@ -1,0 +1,16 @@
+
+L
+java:S1874"6Remove this use of "RSocketFactory"; it is deprecated.(ï¥Ó
+M
+java:S1874#"7Remove this use of "AbstractRSocket"; it is deprecated.(åäèÂ
+Q
+java:S18745"6Remove this use of "RSocketFactory"; it is deprecated.(ÚäËÃýÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.( à”Â
+N	java:S106E"9Replace this use of System.out or System.err by a logger.( à”Â
+N	java:S106L"9Replace this use of System.out or System.err by a logger.( à”Â
+[
+java:S1192;"FDefine a constant instead of duplicating this literal "Hello" 3 times.(Ä´áG
+a
+java:S1192="FDefine a constant instead of duplicating this literal "error" 3 times.(’‡”žÿÿÿÿÿ
+Z
+java:S2259:"DA "NullPointerException" could be thrown; "socket" is nullable here.( ¹‹¾

@@ -1,0 +1,8 @@
+
+I
+java:S39853".Remove this unused private "FileServer" class.(ûÆ‚Šùÿÿÿÿ
+T
+java:S3985I"9Remove this unused private "VerboseResumeStrategy" class.(Ö«…‘ýÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ÄÇ÷Œþÿÿÿÿ
+º
+java:S1598"£This file "ResumeFileTransfer.java" should be located in "io/rsocket/examples/transport/tcp/resume" directory, not in "/home/ecas095/springchunkupload/tcp/resume".(¸Þ÷¤
